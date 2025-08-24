@@ -1,0 +1,4 @@
+Here you can add your data to be used as a kowledge base.
+It can be any type of file.
+
+Watermelon dozen price: 18.00

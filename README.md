@@ -1,4 +1,4 @@
-# CDC Bot
+# AI-Assistant Bot
 
 AI-Assistant Bot is an AI-powered conversational assistant for querying local data and metadata. It uses OpenAI's GPT models and LangChain + ChromaDB to provide natural language answers based on a knowledge base of local documents information.
 
